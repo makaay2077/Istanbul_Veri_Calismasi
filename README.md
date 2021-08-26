@@ -1,6 +1,7 @@
 Burada İstanbula dair açık kaynaklarla bir kaç uygulama yaptım.
 
 
+
 Makine Öğrenimi Algoritmaları ile  İBB Verisetlerinden İlçere Göre Doğalgaz Tüketimi , 
 
 Nüfus ve Sosyal Ekonomik Statü Skoru veri setleri kullanılarak , Sosyoekonmik statü skoru ve Nüfusa göre
