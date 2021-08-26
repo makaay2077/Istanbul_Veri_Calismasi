@@ -11,6 +11,7 @@ kullandım.
 
 
 
+
 İBB Veri Setlerinden Sağlık Kurumları Veri Seti ve Nüfus verilerinden yararlanarak
 
 ilk olarak KeplerGL kütüphanesini kullanıp , Yataklı Hastane konumlarını noktalar olarak gösterimini yaptık.
@@ -20,6 +21,9 @@ Nokta Büyüklükleri yatak sayısıyla orantılı.Ardından veriler üzerinde m
 İlçelere göre 1000 kişi başına düşen yatak sayısını bulup plotly kütüphanesi yardımıyla hem yatak 
 
 hem de düşey olarak görselleştirdim.
+
+
+
 
 
 En sonuncuda da Google Earth Engine verileri kullanarak earth engine'da gömülü Makina Öğrenimi algoritmaları ile (Kmeans Kümeleme)  
